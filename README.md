@@ -1,6 +1,6 @@
 # appnacollege-demo
 this is my first repository
 <br>
-author-subhashree sethi
+author-subhashree (nmiet college)
 <br>
 have a nice day!
